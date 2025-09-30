@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(40, 90, 106);
+}
+.f{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid darkblue;
+    border-radius: 5px;
+    background-color: white;
+}
