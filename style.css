@@ -6,5 +6,6 @@ body{
     padding: 20px;
     border: 1px solid darkblue;
     border-radius: 5px;
-    background-color: white;
+    color: antiquewhite;
+    background-color: rgb(205, 50, 50);
 }
